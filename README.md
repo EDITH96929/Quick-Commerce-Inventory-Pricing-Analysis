@@ -1,1 +1,1 @@
-# Quick-Commerce-Inventory-Pricing-Analysis
+# readme
